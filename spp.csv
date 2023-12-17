@@ -1,0 +1,31 @@
+﻿Student_ID,Gender,Age,Socioeconomic_Status,GPA,Exam_Score,Attendance,Study_Hours,Physical_Health,Mental_Health,Extracurricular_Activities,Teacher_Evaluation,Motivation,Technology_Usage,Test_Scores,Classroom_Behavior,Performance
+1,Female,20,High,9,75,80,5,Excellent,Good,Yes,Positive,High,Regular,1400,Good,Excellent
+2,Male,21,Medium,8.7,72,75,6,Good,Excellent,Yes,Positive,High,Frequent,1350,Good,Excellent
+3,Female,22,High,9.5,80,90,5,Excellent,Excellent,Yes,Positive,Very High,Regular,1420,Excellent,Excellent
+4,Male,20,Low,8.8,78,80,4,Good,Good,Yes,Positive,High,Regular,1310,Good,Excellent
+5,Female,21,Medium,8.6,74,85,6,Excellent,Excellent,Yes,Positive,Very High,Frequent,1360,Good,Excellent
+6,Male,22,High,9.2,77,88,5,Good,Good,Yes,Positive,High,Frequent,1380,Good,Excellent
+7,Female,20,Low,8.9,76,75,6,Excellent,Good,Yes,Positive,Very High,Regular,1330,Good,Excellent
+8,Male,21,Medium,8.7,73,78,5,Good,Excellent,Yes,Positive,High,Frequent,1370,Good,Excellent
+9,Female,22,High,9.3,79,87,6,Excellent,Excellent,Yes,Positive,Very High,Frequent,1410,Excellent,Excellent
+10,Male,20,Low,8.6,71,72,5,Good,Good,Yes,Positive,High,Regular,1300,Good,Excellent
+11,Female,20,High,8,55,75,3,Good,Good,Yes,Positive,Medium,Regular,1200,Good,Average
+12,Male,21,Medium,7.8,58,78,4,Good,Good,Yes,Positive,Medium,Frequent,1100,Good,Average
+13,Female,22,High,8.2,60,80,5,Excellent,Good,Yes,Positive,High,Regular,1250,Good,Average
+14,Male,20,Low,7.5,52,75,2,Good,Good,Yes,Positive,Low,Regular,1050,Good,Average
+15,Female,21,Medium,7.9,56,85,4,Good,Good,Yes,Positive,Medium,Frequent,1150,Good,Average
+16,Male,22,High,8.4,59,88,3,Good,Good,Yes,Positive,High,Frequent,1280,Good,Average
+17,Female,20,Low,7.7,54,75,5,Good,Good,Yes,Positive,Medium,Regular,1250,Good,Average
+18,Male,21,Medium,8.1,57,78,2,Good,Good,Yes,Positive,Low,Frequent,1120,Good,Average
+19,Female,22,High,8.3,60,87,4,Excellent,Good,Yes,Positive,High,Frequent,1220,Good,Average
+20,Male,20,Low,7.6,51,72,3,Good,Good,Yes,Positive,Medium,Regular,1080,Good,Average
+21,Female,20,High,6.8,45,65,1,Poor,Poor,No,Negative,Low,Low,850,Poor,Poor
+22,Male,21,Medium,6.5,40,60,2,Poor,Poor,No,Negative,Low,Low,800,Poor,Poor
+23,Female,22,High,6.2,38,68,1,Poor,Poor,No,Negative,Low,Low,780,Poor,Poor
+24,Male,20,Low,6.9,48,62,2,Poor,Poor,No,Negative,Low,Low,890,Poor,Poor
+25,Female,21,Medium,6.4,42,67,1,Poor,Poor,No,Negative,Low,Low,820,Poor,Poor
+26,Male,22,High,6.1,35,69,2,Poor,Poor,No,Negative,Low,Low,750,Poor,Poor
+27,Female,20,Low,6.7,46,64,1,Poor,Poor,No,Negative,Low,Low,870,Poor,Poor
+28,Male,21,Medium,6.3,41,63,1,Poor,Poor,No,Negative,Low,Low,810,Poor,Poor
+29,Female,22,High,6.6,44,66,1,Poor,Poor,No,Negative,Low,Low,840,Poor,Poor
+30,Male,20,Low,6,37,61,2,Poor,Poor,No,Negative,Low,Low,730,Poor,Poor
